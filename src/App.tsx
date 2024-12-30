@@ -3,7 +3,6 @@
 import "./App.css";
 import {
   AccountAbstractionProvider,
-  SafeSmartAccount,
   BiconomySmartAccount
 } from "@web3auth/account-abstraction-provider";
 // IMP START - Quick Start
